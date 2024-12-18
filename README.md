@@ -3,10 +3,10 @@ A collection of Python projects showcasing beginner to advanced concepts and use
 A collection of Python projects demonstrating various programming concepts, libraries, and real-world applications.
 
 ## Projects Included
-1. **Calculator**: A basic calculator application using Python's `tkinter` module.
-2. **Web Scraper**: A script for scraping websites using `BeautifulSoup` and `requests`.
-3. **Data Analysis**: Analysis of datasets using `pandas` and `matplotlib`.
-4. **Game Development**: A simple game like.
+1. Quiz Game
+2. Rock,Paper and Scissor game
+3. Password Manager
+4. Password Generator etc.....
 
 ## Features
 - Beginner-friendly code examples.
